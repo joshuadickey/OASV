@@ -1,4 +1,5 @@
 Open American Standard Version (OASV)
+
 The OASV is an open-source update to the venerable 1901 American Standard Version (ASV)!
 
 The 1901 ASV is a classic English translation of the Bible. It is based on the Textus Receptus. It has high literal fidelity to the original text. And best of all, it is in the Public Domain, which means it is free to quote, reprint, copy and use for any purpose. Unfortunately, the language of the ASV is archaic, and nearly inaccessible to the modern reader.
