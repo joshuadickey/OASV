@@ -13,8 +13,8 @@ Dr. Joshua Thaxter Dickey
 <br>
 <br>
 
-<b> Running the code </b>
-This code can be run completely in the cloud using Google Colab and ChatGPT!
+<b> This code can be run completely in the cloud using Google Colab and ChatGPT! </b>
+
 <li> Go to https://openai.com/, login to the API Platform and Create a Secret Key </li>
 <li> Go to https://colab.research.google.com/, pick GITHUB source and put the repository details: https://github.com/joshuadickey/OASV/ </li>
 <li> Insert your Secret Key and run the code! </li>
