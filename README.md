@@ -1,4 +1,4 @@
-The Open American Standard Version (OASV) is an open-source update to the venerable 1901 American Standard Version (ASV).
+**The Open American Standard Version (OASV) is an open-source update to the venerable 1901 American Standard Version (ASV).**
 
 The 1901 ASV is a classic bible translation, long considered to be one of the most accurate translations in the English language. It is currently in the Public Domain, which means it is free to quote, reprint, copy and use for any purpose. Unfortunately, the language of the ASV is archaic and outdated, making it nearly inaccessible to the modern reader.
 
